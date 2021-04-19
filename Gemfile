@@ -18,6 +18,7 @@ gem 'puma', '~> 5.0'
 
 # for hiding api keys
 gem 'dotenv-rails'
+gem 'pry', '~> 0.13.1'
 gem 'rest-client'
 
 # Use Active Storage variant
